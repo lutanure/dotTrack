@@ -1,7 +1,7 @@
 # dotTrack
 **A customizable fitness tracker** that offers a simple yet effective way to track your habits and to-dos.
 
-Hi, I'm Luisa, the developer of dotTrack. I created this app because I wanted to focus on building better habits, improving my health, and boosting productivity. Inspired by a growing trend to make the most out of the last three months of the year and how people were struggling to track their progress, I saw the need for a customizable, all-in-one tracker.
+Hi, I'm Luisa, the developer of dotTrack. I created this app because I wanted to focus on building better habits, improving my health, and boosting productivity. Inspired by a growing trend to make the most out of the last three months of the year, and how people were struggling to track their progress, I saw the need for a customizable, all-in-one tracker.
 
 <div style="display: flex; justify-content: space-around;">
   <img src="assets/dotTrackMain.png" alt="Main Screen" width="200"/>
@@ -12,7 +12,7 @@ Hi, I'm Luisa, the developer of dotTrack. I created this app because I wanted to
 ### Features
 - Track daily fitness habits.
 - Manage a dynamic to-do list with tasks you can check off.
-- Vizualize what your progress looks like with progress rings and sumamries.
+- Visualize what your progress looks like with progress rings and summaries.
 - Persist data between app sessions using UserDefaults, so your progress is always saved.
 - Sleek and responsive design.
 
