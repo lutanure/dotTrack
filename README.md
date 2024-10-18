@@ -32,6 +32,6 @@ Hi, I'm Luisa, the developer of dotTrack. I created this app because I wanted to
 - Add a quick tutorial to help new users get started.
 
 ### Demo
-![Demo](assets/dotTrackDemo.gif)
+<img src="dotTrackDemo.gif" alt="Demo" width="400"/>
 
 
