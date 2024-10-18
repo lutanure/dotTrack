@@ -26,7 +26,7 @@ Hi, I'm Luisa, the developer of dotTrack. I created this app because I wanted to
 3. Build and run the app on your iOS simulator or device.
 
 ### Next Steps
-- Integrate with an API to make weekly summaries and additional features
+- Integrate with an API to make weekly summaries functional and add other improved features.
 - Adding personalized fitness goal recommendations (using CoreML).
 - Implementing reminders for habits and to-dos using Local Notifications.
 - Automatically reset daily habits at the start of each day.
