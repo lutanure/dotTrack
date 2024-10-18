@@ -3,9 +3,11 @@
 
 Hi, I'm Luisa, the developer of dotTrack. I created this app because I wanted to focus on building better habits, improving my health, and boosting productivity. Inspired by a growing trend to make the most out of the last three months of the year and how people were struggling to track their progress, I saw the need for a customizable, all-in-one tracker.
 
-![Main Screen](assets/dotTrackMain.png)
-![Goal Settings Screen](assets/dotTrackSettings.png)
-![Summary Screen](assets/dotTrackSummary.png)
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/dotTrackMain.png" alt="Main Screen" width="250"/>
+  <img src="assets/dotTrackSettings.png" alt="Settings Screen" width="250"/>
+  <img src="assets/dotTrackSummary.png" alt="Summary Screen" width="250"/>
+</div>
 
 ### Features
 - Track daily fitness habits.
@@ -30,6 +32,6 @@ Hi, I'm Luisa, the developer of dotTrack. I created this app because I wanted to
 - Add a quick tutorial to help new users get started.
 
 ### Demo
-
+<img src="assets/dotTrackDemo.gif" alt="App Demo" width="400"/>
 
 
