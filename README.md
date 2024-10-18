@@ -4,9 +4,9 @@
 Hi, I'm Luisa, the developer of dotTrack. I created this app because I wanted to focus on building better habits, improving my health, and boosting productivity. Inspired by a growing trend to make the most out of the last three months of the year and how people were struggling to track their progress, I saw the need for a customizable, all-in-one tracker.
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="assets/dotTrackMain.png" alt="Main Screen" width="250"/>
-  <img src="assets/dotTrackSettings.png" alt="Settings Screen" width="250"/>
-  <img src="assets/dotTrackSummary.png" alt="Summary Screen" width="250"/>
+  <img src="assets/dotTrackMain.png" alt="Main Screen" width="200"/>
+  <img src="assets/dotTrackSettings.png" alt="Settings Screen" width="200"/>
+  <img src="assets/dotTrackSummary.png" alt="Summary Screen" width="200"/>
 </div>
 
 ### Features
