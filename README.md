@@ -1,3 +1,4 @@
+![dotTrack](assets/dotTrack.png)
 # dotTrack
 **A customizable fitness tracker** that offers a simple yet effective way to track your habits and to-dos.
 
