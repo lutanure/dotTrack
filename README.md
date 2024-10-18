@@ -13,11 +13,11 @@ Hi, I'm Luisa, the developer of dotTrack. I created this app because I wanted to
 - Track daily fitness habits.
 - Manage a dynamic to-do list with tasks you can check off.
 - Visualize what your progress looks like with progress rings and summaries.
-- Persist data between app sessions using UserDefaults, so your progress is always saved.
+- Save progress between app sessions using UserDefaults, so your progress is always saved.
 - Sleek and responsive design.
 
 ### Technologies
-- Swift UI
+- SwiftUI
 
 ### Setup Instructions
 1. Clone the repository: `git clone <repo-url>`.
@@ -25,7 +25,7 @@ Hi, I'm Luisa, the developer of dotTrack. I created this app because I wanted to
 3. Build and run the app on your iOS simulator or device.
 
 ### Next Steps
-- Integrate with an API to make weekly sumamries and other improved features
+- Integrate with an API to make weekly summaries and additional features
 - Adding personalized fitness goal recommendations (using CoreML).
 - Implementing reminders for habits and to-dos using Local Notifications.
 - Automatically reset daily habits at the start of each day.
